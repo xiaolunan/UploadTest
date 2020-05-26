@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="InputNumberView">
+        <attr name="min" format="integer" />
+        <attr name="max" format="integer" />
+        <attr name="step" format="integer" />
+        <attr name="disable" format="boolean" />
+        <attr name="defaultNum" format="integer" />
+        <attr name="valueSize" format="dimension" />
+        <attr name="BtnBackground" format="color|reference" />
+        <attr name="viewHeight" format="dimension" />
+        <attr name="editTextWidth" format="dimension" />
+    </declare-styleable>
+</resources>
